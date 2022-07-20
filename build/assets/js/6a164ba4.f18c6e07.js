@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjuice_docs_v_2=self.webpackChunkjuice_docs_v_2||[]).push([[81461],{82272:s=>{s.exports=JSON.parse('{"label":"soapbox","permalink":"/blog/tags/soapbox","allTagsPath":"/blog/tags","count":1}')}}]);

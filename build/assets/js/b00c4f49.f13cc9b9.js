@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjuice_docs_v_2=self.webpackChunkjuice_docs_v_2||[]).push([[51681],{89705:s=>{s.exports=JSON.parse('{"label":"pfp","permalink":"/blog/tags/pfp","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjuice_docs_v_2=self.webpackChunkjuice_docs_v_2||[]).push([[65561],{29254:s=>{s.exports=JSON.parse('{"label":"ecosystem","permalink":"/blog/tags/ecosystem","allTagsPath":"/blog/tags","count":3}')}}]);

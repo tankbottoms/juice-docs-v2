@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjuice_docs_v_2=self.webpackChunkjuice_docs_v_2||[]).push([[17110],{81303:a=>{a.exports=JSON.parse('{"label":"on-chain","permalink":"/zh/blog/tags/on-chain","allTagsPath":"/zh/blog/tags","count":1}')}}]);

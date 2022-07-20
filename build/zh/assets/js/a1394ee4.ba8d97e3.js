@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjuice_docs_v_2=self.webpackChunkjuice_docs_v_2||[]).push([[94103],{27388:e=>{e.exports=JSON.parse('{"label":"metaverse","permalink":"/zh/blog/tags/metaverse","allTagsPath":"/zh/blog/tags","count":1}')}}]);

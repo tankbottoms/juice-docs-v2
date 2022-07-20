@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjuice_docs_v_2=self.webpackChunkjuice_docs_v_2||[]).push([[85874],{64381:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/juicebox/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":18,"previousPage":"/blog/tags/juicebox","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

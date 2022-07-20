@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjuice_docs_v_2=self.webpackChunkjuice_docs_v_2||[]).push([[45655],{66553:c=>{c.exports=JSON.parse('{"label":"cryptocurrency","permalink":"/zh/blog/tags/cryptocurrency","allTagsPath":"/zh/blog/tags","count":2}')}}]);

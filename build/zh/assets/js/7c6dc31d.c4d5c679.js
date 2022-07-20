@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjuice_docs_v_2=self.webpackChunkjuice_docs_v_2||[]).push([[11610],{18850:s=>{s.exports=JSON.parse('{"label":"nouns","permalink":"/zh/blog/tags/nouns","allTagsPath":"/zh/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjuice_docs_v_2=self.webpackChunkjuice_docs_v_2||[]).push([[691],{30898:s=>{s.exports=JSON.parse('{"label":"nfts","permalink":"/zh/blog/tags/nfts","allTagsPath":"/zh/blog/tags","count":2}')}}]);

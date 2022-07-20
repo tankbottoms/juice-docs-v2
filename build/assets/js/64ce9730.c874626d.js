@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjuice_docs_v_2=self.webpackChunkjuice_docs_v_2||[]).push([[96590],{6228:e=>{e.exports=JSON.parse('{"label":"lexicon devils","permalink":"/blog/tags/lexicon-devils","allTagsPath":"/blog/tags","count":1}')}}]);

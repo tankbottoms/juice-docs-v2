@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjuice_docs_v_2=self.webpackChunkjuice_docs_v_2||[]).push([[65231],{25787:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/governance/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":11,"previousPage":"/blog/tags/governance","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

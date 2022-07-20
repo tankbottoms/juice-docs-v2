@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjuice_docs_v_2=self.webpackChunkjuice_docs_v_2||[]).push([[74738],{61856:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/dao","page":1,"postsPerPage":10,"totalPages":5,"totalCount":46,"nextPage":"/blog/tags/dao/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

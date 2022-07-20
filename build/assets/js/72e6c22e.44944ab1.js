@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjuice_docs_v_2=self.webpackChunkjuice_docs_v_2||[]).push([[31058],{9057:s=>{s.exports=JSON.parse('{"label":"shitpost","permalink":"/blog/tags/shitpost","allTagsPath":"/blog/tags","count":1}')}}]);

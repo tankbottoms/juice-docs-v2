@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjuice_docs_v_2=self.webpackChunkjuice_docs_v_2||[]).push([[32179],{39213:e=>{e.exports=JSON.parse('{"permalink":"/zh/blog/tags/news","page":1,"postsPerPage":10,"totalPages":2,"totalCount":12,"nextPage":"/zh/blog/tags/news/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

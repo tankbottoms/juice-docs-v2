@@ -1,5 +1,6 @@
 ---
 title: "Terms of Service"
+"position": 6
 ---
 
 ## Juicebox Terms of Service
@@ -42,7 +43,7 @@ Using the DAO protocol may require that you pay a fee, such as gas charges on th
 
 The DAO Application and the DAO Protocol emits Project Tokens to Managers and users for any contributions to the DAO Application directly. The DAO Protocol by default emits Project Tokens to Managers' Applications at a rate of 2.5% of all funds transferred from the Application to the Cryptocurrency Wallets in the configuration. See the Guiding Principals of Juicebox DAO for specific information regarding the terms of Membership.
 
-### MANAGER OBLIGATIONS
+### Manager Obligations
 
 DUE TO THE NATURE OF A MANAGER’S ACTIVITIES ON THE SITE, IT IS POSSIBLE THAT MANAGERS WILL NEED TO COMPLY WITH THE INVESTMENT ADVISERS ACT OF 1940 (“ADVISERS ACT”). IT IS THE OBLIGATION OF THE MANAGER TO MAKE THIS DETERMINATION ON ITS OWN AND TAKE APPROPRIATE ACTIONS TO COMPLY WITH THE ADVISERS ACT IF AND AS NECESSARY.
 

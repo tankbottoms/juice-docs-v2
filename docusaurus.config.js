@@ -49,7 +49,7 @@ const config = {
     locales: ['en', 'zh'],
   },
   themeConfig: {
-    image: 'img/apple.png',
+    image: 'img/juicedocs.png',
     metadata: [{ name: 'keywords', content: 'Juicebox, juicebox, crypto, cryptocurrency, ethereum, Ethereum, fundraising, treasury, treasury management, Juicebox DAO, JuiceboxDAO, juiceboxdao, juicebox dao, dao tooling, dao, daos, erc20, nft, decentralized, funding, web3, Web3' }],
     docs: {
       sidebar: {

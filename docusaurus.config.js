@@ -16,8 +16,6 @@ const config = {
   organizationName: 'Juicebox', // Usually your GitHub org/user name.
   projectName: 'Juicebox Protocol', // Usually your repo name.
 
-  plugins: [require.resolve('docusaurus-lunr-search')],
-
   presets: [
     [
       'classic',
@@ -49,6 +47,11 @@ const config = {
     locales: ['en', 'zh'],
   },
   themeConfig: {
+    algolia: {
+      appId: '6C0XLHGK46',
+      apiKey: 'cf4910b7f8d618e1ee356e575db8120b',
+      indexName: 'juicebox',
+    },
     image: 'img/juicedocs.png',
     metadata: [{ name: 'keywords', content: 'Juicebox, juicebox, crypto, cryptocurrency, ethereum, Ethereum, fundraising, treasury, treasury management, Juicebox DAO, JuiceboxDAO, juiceboxdao, juicebox dao, dao tooling, dao, daos, erc20, nft, decentralized, funding, web3, Web3' }],
     docs: {

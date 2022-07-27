@@ -47,13 +47,13 @@ const config = {
     locales: ['en', 'zh'],
   },
   themeConfig: {
+    image: 'img/juicedocs.png',
+    metadata: [{ name: 'keywords', content: 'Juicebox, juicebox, crypto, cryptocurrency, ethereum, Ethereum, fundraising, treasury, treasury management, Juicebox DAO, JuiceboxDAO, juiceboxdao, juicebox dao, dao tooling, dao, daos, erc20, nft, decentralized, funding, web3, Web3' }],
     algolia: {
       appId: '6C0XLHGK46',
       apiKey: 'cf4910b7f8d618e1ee356e575db8120b',
       indexName: 'juicebox',
     },
-    image: 'img/juicedocs.png',
-    metadata: [{ name: 'keywords', content: 'Juicebox, juicebox, crypto, cryptocurrency, ethereum, Ethereum, fundraising, treasury, treasury management, Juicebox DAO, JuiceboxDAO, juiceboxdao, juicebox dao, dao tooling, dao, daos, erc20, nft, decentralized, funding, web3, Web3' }],
     docs: {
       sidebar: {
         autoCollapseCategories: true,
@@ -92,15 +92,33 @@ const config = {
           sidebarId: 'dao',
           label: 'Juicebox DAO',
         },
+        { to: '/blog', label: 'Blog', position: 'left' },
         {
             type: 'localeDropdown',
             position: 'right',
         },
-        { to: '/blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://juicebox.money/',
-          label: 'Juicebox',
+          type: 'dropdown',
+          label: 'Resources',
           position: 'right',
+          items: [
+            {
+              label: 'Juicebox',
+              to: 'https://juicebox.money',
+            },
+            {
+              label: 'Discord',
+              to: 'https://discord.gg/juicebox',
+            },
+            {
+              label: 'Twitter',
+              to: 'https://twitter.com/juiceboxETH',
+            },
+            {
+              label: 'GitHub',
+              to: 'https://github.com/jbx-protocol',
+            },
+          ],
         },
       ],
     },

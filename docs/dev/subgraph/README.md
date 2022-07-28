@@ -9,8 +9,8 @@ sidebar_position: 9
 Multiple subgraphs are maintained by [Peel](https://discord.gg/b4rpjgGPHX) in a Graph Studio owned by the [Peel Gnosis safe](https://gnosis-safe.io/app/eth:0x0e9D15e28e3De9bB3CF64FFbC2f2F49Da9Ac545B). Only the primary juicebox subgraph has been published to the Graph Network. All others are available to use for free with rate-limited queries are rate-limited.
 
 - **juicebox** - ([Published](https://thegraph.com/explorer/subgraph?id=FVmuv3TndQDNd2BWARV8Y27yuKKukryKXPzvAS5E7htC&view=Overview)) primary mainnet subgraph used by juicebox.money 
-- **mainnet-dev** - indexes mainnet jbx-protocol contracts
-- **rinkeby-dev** - indexes rinkeby jbx-protocol contracts
+- **mainnet-dev** - indexes mainnet jbx-protocol contracts `https://api.studio.thegraph.com/query/30654/mainnet-dev/0.1.0`
+- **rinkeby-dev** - indexes rinkeby jbx-protocol contracts `https://api.studio.thegraph.com/query/30654/rinkeby-dev/0.1.0`
 
 ## Querying the subgraph
 

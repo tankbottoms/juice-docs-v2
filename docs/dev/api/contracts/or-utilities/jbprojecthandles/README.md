@@ -8,9 +8,9 @@ https://github.com/jbx-protocol/juice-project-handles/blob/main/contracts/JBProj
 
 #### Addresses
 
-Ethereum mainnet: [``](https://etherscan.io/address/)
+Ethereum mainnet: [`0xe3c01e9fd2a1dcc6edf0b1058b5757138ef9ffb6`](https://etherscan.io/address/0xe3c01e9fd2a1dcc6edf0b1058b5757138ef9ffb6)
 
-Ethereum rinkeby: [``](https://rinkeby.etherscan.io/address/)
+Ethereum rinkeby: [`0xd0b970348dfc7ae57e81b4f069ed0e06127be85d`](https://rinkeby.etherscan.io/address/0xd0b970348dfc7ae57e81b4f069ed0e06127be85d)
 
 #### Interfaces
 

@@ -1,7 +1,7 @@
 # Airdrop Guide: Rewarding Your Community
 
-:::info
-This is a mirror of y4000.eth's [amazing blog post](https://mirror.xyz/y4000.eth/DwtMwn_rOOqTyTvvshlRLy9jNiKa__hag9zQgAQtSHw)
+:::note
+This is a mirror of [y4000.eth's blog post](https://mirror.xyz/y4000.eth/DwtMwn_rOOqTyTvvshlRLy9jNiKa__hag9zQgAQtSHw).
 :::
 
 It’s amazing when a community comes together in the world of web3. It’s a bit sad to see one fizzle out just as quickly as it forms.

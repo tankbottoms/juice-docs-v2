@@ -1,4 +1,4 @@
-# How to use Juicebox tokens in a Snapshot strategy
+# Snapshot Strategies
 
 *This takes both claimed ERC-20s or unclaimed tokens into account when setting up Snapshot ballot strateies.*
 

@@ -24,10 +24,10 @@ Multiple subgraphs are maintained by [Peel](https://discord.gg/b4rpjgGPHX) in a 
 
 ## Avoid Rate-Limiting
 
-To use the mainnet Juicebox subgraph in your project without being rate-limited:
+To use the mainnet Juicebox subgraph without being rate-limited:
 1. Create your API key on [Subgraph Studio API Keys](https://thegraph.com/studio/apikeys/).
 2. Fund your billing balance on [Subgraph Studio Billing](https://thegraph.com/studio/billing/).
-3. Query the juicebox mainnet subgraph using `https://gateway.thegraph.com/api/<your-api-key>/subgraphs/id/FVmuv3TndQDNd2BWARV8Y27yuKKukryKXPzvAS5E7htC`.
+3. Query the mainnet Juicebox subgraph using `https://gateway.thegraph.com/api/<your-api-key>/subgraphs/id/FVmuv3TndQDNd2BWARV8Y27yuKKukryKXPzvAS5E7htC`.
 
-*For more info on Graph query billing, visit [Billing on the Subgraph Studio -  The Graph Docs](https://thegraph.com/docs/en/querying/billing/)*
+*For more info on Graph query billing, visit [Billing on the Subgraph Studio -  The Graph Docs](https://thegraph.com/docs/en/querying/billing/).*
 

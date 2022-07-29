@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
+slug: /
 ---
-import ReactPlayer from 'react-player'
 
 # Intro
 

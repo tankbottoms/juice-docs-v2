@@ -3,10 +3,6 @@ sidebar_position: 4
 ---
 # Tools for Project Creators
 
-:::warning
-This list is a work in progress, and is by no means comprehensive.
-:::
-
 :::tip
 Aeolian's [DAO Tooling 101](https://info.juicebox.money/blog/dao-tooling-101/) is another great resource for project creators.
 :::

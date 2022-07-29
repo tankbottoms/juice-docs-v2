@@ -1,12 +1,11 @@
 ---
 title: Juicebox Docs
 sidebar_position: 1
-slug: /
 ---
 
 # Intro
 
-#### *Juicebox helps people confidently run programmable and community funded treasuries from startup to scale, openly on Ethereum.*
+> Juicebox helps people confidently run programmable and community funded treasuries from startup to scale, openly on Ethereum.
 
 ![](/img/characters.png)
 

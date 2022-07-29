@@ -4,8 +4,6 @@ sidebar_position: 3
 
 # Subgraph
 
-## Overview
-
 [juicebox.money](https://juicebox.money) uses [The Graph](https://thegraph.com/) to load data from Juicebox protocol contracts without directly querying the blockchain.
 
 Multiple subgraphs are maintained by [Peel](https://discord.gg/b4rpjgGPHX) in a Graph Studio owned by the [Peel Gnosis safe](https://gnosis-safe.io/app/eth:0x0e9D15e28e3De9bB3CF64FFbC2f2F49Da9Ac545B). Only the primary Juicebox subgraph has been published to the Graph Network; others are available to use for free with rate-limited queries.

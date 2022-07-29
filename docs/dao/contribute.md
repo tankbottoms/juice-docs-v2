@@ -22,9 +22,9 @@ Once you have made some contributions, the next step is to submit a proposal for
 
 #### How can I advance to recurring payouts?
 
-Once you have completed a Payout Trial Period, it is recommended that you fill out a Recurring Payment template in the [](https://www.notion.so/9d126f9148dc42ee83317d5cd74e4db4) database. This template will ask you to explain what you have done so far and how you plan to contribute to the community going forward. It is encouraged for recurring payouts to be renewed/updated every 90 days.
+Once you have completed a Payout Trial Period, it is recommended that you fill out a Recurring Payment template in the [proposals](https://www.notion.so/9d126f9148dc42ee83317d5cd74e4db4) database. This template will ask you to explain what you have done so far and how you plan to contribute to the community going forward. It is encouraged for recurring payouts to be renewed/updated every 90 days.
 
-#### What should I do next
+#### What should I do next?
 
 1. Join [the Discord](https://www.discord.gg/juicebox).
 2. Join the weekly Town Halls if possible (Tuesday 22:00 UTC).

@@ -59,76 +59,53 @@ The creation of the DAO Application of Cryptocurrency Assets may subject the Man
 
 ### Access to the Site
 
-Access to the Site is provided “AS IS” and “as available” basis only. We do not guarantee that the Site, or any content on it, will always be available or uninterrupted. From time to time, access may be interrupted, suspended or restricted, including because of a fault, error or unforeseen circumstances or because we are carrying out planned maintenance.
+Access to the Site is provided “AS IS” and on an “as available” basis only. We do not guarantee that the Site, or any content on it, will always be available or uninterrupted. From time to time, access may be interrupted, suspended or restricted, because of a fault, error, or unforeseen circumstances or because we are carrying out planned maintenance.
 
 We reserve the right to limit the availability of the Site to any person, geographic area or jurisdiction we so desire and/or to terminate your access to and use of the Site, at any time and in our sole and absolute discretion.
 
-We may remove or amend the content of the Site at any time. However, some of the content may be out of date at any given time and we are under no obligation to update it. We do not guarantee that the Site, or any content on it, will be free from errors or omissions.
+We may remove or amend the content of the Site at any time. Some of the content may be out of date at any given time and we are under no obligation to update it. We do not guarantee that the Site, or any content on it, will be free from errors or omissions.
 
-We will not be liable to you for any loss or damage you may suffer as a result of the Site being unavailable at any time for any reason.
-You will comply with all applicable domestic and international laws, statutes, ordinances and regulations applicable to your use of the Site.
+We will not be liable to you for any loss or damage you may suffer as a result of the Site being unavailable at any time for any reason. You will comply with all applicable domestic and international laws, statutes, ordinances and regulations applicable to your use of the Site.
 
-As a condition to accessing or using the Site, you:
+**As a condition to accessing or using the Site, you will:**
+1. only use the Site in accordance with these Terms;
+2. ensure that all information that you provide on the Site is current, complete, and accurate;
+3. ensure compliance with all U.S. securities laws; and
+4. maintain the security and confidentiality of access to your Cryptocurrency Wallet address.
 
--   will only use the Site in accordance with these Terms;
+**As a condition to accessing or using the Site, you will not:**
+1. violate any applicable law, including, without limitation, any relevant and applicable anti-money laundering and anti-terrorist financing laws as well as any relevant and applicable privacy and data collection laws, in each case as may be amended;
+2. export, reexport, or transfer, directly or indirectly, any DAO technology in violation of applicable export laws or regulations;
+3. infringe on or misappropriate any contract, intellectual property or other third-party right, or commit a tort while using the Site;
+4. make commercial use of the Site or any of its content without our express written permission;
+5. misrepresent the truthfulness, sourcing or reliability of any content on the Site;
+6. use the Site to simulate communications from us or another service or entity in order to collect identity information, authentication credentials, or other information (known as ‘phishing’);
+7. use the Site in any manner that could interfere with, disrupt, negatively affect, or inhibit other users from fully enjoying the Site or the DAO protocol, or that could damage, disable, overburden, or impair the functioning of the Site or the DAO protocol in any manner;
+8. attempt to circumvent any content filtering techniques or security measures that DAO employs on the Site, or attempt to access any service or area of the Site that you are not authorized to access;
+9. use any robot, spider, crawler, scraper, or other automated means or interface not provided by us, to access the Site to extract data;
+10. introduce any malware, virus, Trojan horse, worm, logic bomb, drop-dead device, backdoor, shutdown mechanism or other harmful material into the Site;
+11. **post content or communications on the Site that are, in our sole and absolute discretion, libelous, defamatory, profane, obscene, pornographic, sexually explicit, indecent, lewd, vulgar, suggestive, harassing, hateful, threatening, offensive, discriminatory, bigoted, abusive, inflammatory, fraudulent, deceptive or otherwise objectionable;**
+12. post content on the Site containing unsolicited promotions, commercial messages or any chain messages or user content designed to deceive or trick the user of the Site; or
+13. encourage or induce any third party to engage in any of the activities prohibited under these Terms.
 
--   will ensure that all information that you provide on the Site is current, complete, and accurate;
+**You acknowledge that the Site and your use of the Site contain certain risks, including without limitation the following risks:**
+1. That any Smart Contracts you interact with are entirely your own responsibility and liability, and that DAO is not party to the Smart Contracts;
+2. That at any time, your access to your Cryptocurrency Assets may be suspended or terminated or there may be a delay in your access or use of your Cryptocurrency Assets which may result in the Cryptocurrency Assets diminishing in value or you being unable to complete a Smart Contract; and
+3. That the Site and/or application may be suspended or terminated for any or no reason, which may limit your access to your Cryptocurrency Assets.
 
--   will ensure compliance with all U.S. securities laws; and
-
--   will maintain the security and confidentiality of access to your Cryptocurrency Wallet address.
-
-As a condition to accessing or using the Site, you will not:
-
--   Violate any applicable law, including, without limitation, any relevant and applicable anti-money laundering and anti-terrorist financing laws and any relevant and applicable privacy and data collection laws, in each case as may be amended;
-
--   Export, reexport, or transfer, directly or indirectly, any DAO technology in violation of applicable export laws or regulations;
-
--   Infringe on or misappropriate any contract, intellectual property or other third-party right, or commit a tort while using the Site;
-
--   Make commercial use of the Site or any of its content without our express written permission;
-
--   Misrepresent the truthfulness, sourcing or reliability of any content on the Site;
-
--   Use the Site to simulate communications from us or another service or entity in order to collect identity information, authentication credentials, or other information (known as ‘phishing’);
-
--   Use the Site in any manner that could interfere with, disrupt, negatively affect, or inhibit other users from fully enjoying the Site or the DAO protocol, or that could damage, disable, overburden, or impair the functioning of the Site or the DAO protocol in any manner;
-
--   Attempt to circumvent any content filtering techniques or security measures that DAO employs on the Site, or attempt to access any service or area of the Site that you are not authorized to access;
-
--   Use any robot, spider, crawler, scraper, or other automated means or interface not provided by us, to access the Site to extract data;
-
--   Introduce any malware, virus, Trojan horse, worm, logic bomb, drop-dead device, backdoor, shutdown mechanism or other harmful material into the Site;
-
--   **Post content or communications on the Site that are, in our sole and absolute discretion, libelous, defamatory, profane, obscene, pornographic, sexually explicit, indecent, lewd, vulgar, suggestive, harassing, hateful, threatening, offensive, discriminatory, bigoted, abusive, inflammatory, fraudulent, deceptive or otherwise objectionable;**
-
--   Post content on the Site containing unsolicited promotions, commercial messages or any chain messages or user content designed to deceive or trick the user of the Site; or
-
--   Encourage or induce any third party to engage in any of the activities prohibited under these Terms.
-
-You acknowledge that the Site and your use of the Site contain certain risks, including without limitation the following risks:
-
--   That any Smart Contracts you interact with are entirely your own responsibility and liability, and that DAO is not party to the Smart Contracts;
-
--   At any time, your access to your Cryptocurrency Assets may be suspended or terminated or there may be a delay in your access or use of your Cryptocurrency Assets which may result in the Cryptocurrency Assets diminishing in value or you being unable to complete a Smart Contract; and
-
-The Site and/or application may be suspended or terminated for any or no reason, which may limit your access to your Cryptocurrency Assets.
-
-Accordingly, you expressly agree that:
-
--   You assume all risks in connection with your access and use of the Site, the DAO Application and the Smart Contracts; and
-
--   You expressly release the DAO, our contributors, members, and affiliates, and hold them harmless from and against, any and all liability, claims, causes of action, losses, expenses, or damages (whether arising in law or equity, including but not limited to special, consequential, indirect, punitive and exemplary damages, and including but not limited to economic loss, business disruption, and/or attorney’s fees) arising from or in any way related to the Site, the Application and/or the Smart Contracts. You expressly waive all such claims against the Releasees.
+**Accordingly, you expressly agree that:**
+1. You assume all risks in connection with your access and use of the Site, the DAO Application and the Smart Contracts; and
+2. You expressly release the DAO, our contributors, members, and affiliates, and hold them harmless from and against, any and all liability, claims, causes of action, losses, expenses, or damages (whether arising in law or equity, including but not limited to special, consequential, indirect, punitive and exemplary damages, and including but not limited to economic loss, business disruption, and/or attorney’s fees) arising from or in any way related to the Site, the Application and/or the Smart Contracts. You expressly waive all such claims against the Releasees.
 
 ### Securities Law Matters
 
 **ANY GOVERNANCE TOKENS RECEIVED BY MEMBERS HAVE NOT BEEN APPROVED OR DISAPPROVED BY THE UNITED STATES SECURITIES AND EXCHANGE COMMISSION, ANY STATE SECURITIES COMMISSION, OR OTHER REGULATORY AUTHORITY, NOR HAVE ANY OF THE FOREGOING AUTHORITIES PASSED UPON THE MERITS OF THIS OFFERING OR UPON THE ACCURACY OR ADEQUACY OF THIS AGREEMENT. ANY REPRESENTATION TO THE CONTRARY IS A CRIMINAL OFFENSE. THIS DOCUMENT DOES NOT CONSTITUTE AN OFFER OR SOLICITATION TO ANYONE IN ANY JURISDICTION IN WHICH SUCH OFFER OR SOLICITATION IS NOT AUTHORIZED.**
 
-**ANY GOVERNANCE TOKENS THAT YOU MAY ACQUIRE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT, STATE SECURITIES LAWS, OR THE LAWS OF ANY COUNTRY OUTSIDE THE UNITED STATES. THE DAO'S POSITION IS THAT THE DAO'S GOVERNANCE TOKENS SHOULD NOT BE SINCE THE PURPOSE OF THE DAO IS TO PROVIDE A BLOCKCHAIN NATIVE ACCOUNTING APPLICATION, PROVIDE NO RIGHTS TO ANY DISTRIBUTION OR PROFITS, AND ARE NON-TRANSFERRABLE EXCEPT DETAILED IN THE TERMS OF USE.**
+**ANY GOVERNANCE TOKENS THAT YOU MAY ACQUIRE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT, STATE SECURITIES LAWS, OR THE LAWS OF ANY COUNTRY OUTSIDE THE UNITED STATES. THE DAO'S POSITION IS THAT THE DAO'S GOVERNANCE TOKENS SHOULD NOT BE REGISTERED AS THE PURPOSE OF THE DAO IS TO PROVIDE A BLOCKCHAIN NATIVE ACCOUNTING APPLICATION. THE DAO'S GOVERNANCE TOKENS PROVIDE NO RIGHTS TO ANY DISTRIBUTION OR PROFITS, AND ARE NON-TRANSFERRABLE EXCEPT AS DETAILED IN THE TERMS OF USE.**
 
 ### OFAC Compliance
 
-The U.S. Department of Treasury, through the Office of Foreign Assets Control (“OFAC”), prohibits U.S. companies from engaging in all or certain commercial activities with certain sanctioned countries (each a “Sanctioned Country”) and certain individuals, organizations or entities, including without limitation, certain “Specially Designated Nationals” (“SDN”) listed by OFAC. **If you use the Site, you expressly represent that you are not located in a Sanctioned Country and are not listed as an SDN. If the DAO determines that the Site is being used by prohibited persons, it will take any and all actions to terminate that User’s access to the Site.**
+The U.S. Department of Treasury, through the Office of Foreign Assets Control (“OFAC”), prohibits U.S. companies from engaging in all or certain commercial activities with certain sanctioned countries (each a “Sanctioned Country”) and certain individuals, organizations or entities, including without limitation, certain “Specially Designated Nationals” (“SDN”) listed by OFAC. **By using the Site, you expressly represent that you are not located in a Sanctioned Country and are not listed as an SDN. If the DAO determines that the Site is being used by prohibited persons, it will take any and all actions to terminate that User’s access to the Site.**
 
 ### Third Party Links
 
@@ -136,15 +113,17 @@ The Site may contain hyperlinks or references to third party websites. Any such 
 
 ### The Verbose Privacy Policy
 
-Certain areas of the Site or Application including any and all interactions with the Ethereum blockchain, record your Cryptocurrency address and details of the transactions you authorize. You understand that in the aggregate of transactions, including parties you transact with, specific Cryptocurrency Assets you hold, including unique ENS Domain NFTs, third party NFTs (such as a pixelized image of an anthropomorphic banana), the Cryptocurrency address, metadata associated with any Smart Contract such as the executing function, its arguments (or parameters) will contain in aggregate information which _may_ identify you personally.
+Certain areas of the Site or Application (including any and all interactions with the Ethereum blockchain) record your Cryptocurrency address and details of the transactions you authorize. You understand that in the aggregate of transactions, including parties you transact with, specific Cryptocurrency Assets you hold, including unique ENS Domain NFTs, third party NFTs (such as a pixelized image of an anthropomorphic banana), the Cryptocurrency address, metadata associated with any Smart Contract such as the executing function, its arguments (or parameters) will contain in aggregate information which *may* identify you personally.
 
-The Ethereum blockchain transactions are not temporary or transient, but offensively permanently, permission-less, accessible and the DAO, the DAO's Application, contributors, affiliates are not engaged in profiling activities whatsoever. However, _any other_ 3rd party, including government agencies and foreign adversaries, will have unfettered access to all your transactions on the blockchain forever.
+The Ethereum blockchain transactions are not temporary or transient, but offensively permanently, permission-less, and accessible. The DAO and the DAO's Application, contributors, and affiliates are not engaged in profiling activities whatsoever. However, *any other* 3rd party, including government agencies and foreign adversaries, will have unfettered access to all your transactions on the Ethereum blockchain forever.
 
-Your authorization of transactions with your Cryptocurrency address, using Cryptocurrency Tokens, will result in the indelible dissemination of information to the Ethereum blockchain. Notwithstanding, the Application, handles as little personal information as possible, only your Cryptographic address.
+Your authorization of transactions with your Cryptocurrency address and your Cryptocurrency Token use will result in the indelible dissemination of information to the Ethereum blockchain. Notwithstanding, the Application handles as little personal information as possible, including your Cryptographic address.
 
-Additionally, the Application employs Fathom Analytics for website traffic analytics, which doesn't use cookies and complies with the GDPR, ePrivacy (including PECR), COPPA and CCPA. The decision to use this privacy-friendly analytics software, was in large part to ensure your IP address is only briefly processed by this 3rd party, and the DAO and the Application have no way of identifying you (aside from the aforementioned indelible entire history of Cryptographic transactions). As per the CCPA, your personal information is de-identified.
+Additionally, the Application employs Fathom Analytics for website traffic analytics, which doesn't use cookies and complies with the GDPR, ePrivacy (including PECR), COPPA and CCPA. The decision to use this privacy-friendly analytics software was made in large part to ensure that your IP address is only briefly processed by this 3rd party, and to ensure that the DAO and the Application have no way of identifying you (aside from the aforementioned indelible entire history of Cryptographic transactions). As per the CCPA, your personal information is de-identified.
 
 The purpose of the DAO using Fathom Analytics is to understand the Application website traffic in the most privacy-friendly way possible so that the DAO can continually improve the Application. The lawful basis as per the GDPR is "Article 6(1)(f); where our legitimate interests are to improve our website and business continually." Additionally, the DAO and its contributors, have no interest in collecting this information.
+
+We also use Hotjar in order to better understand our users’ needs and to optimize this service and experience. Hotjar is a technology service that helps us better understand our users’ experience (e.g. how much time they spend on which pages, which links they choose to click, what users do and don’t like, etc.) and this enables us to build and maintain our service with user feedback. Hotjar uses cookies and other technologies to collect data on our users’ behavior and their devices. This includes a device's IP address (processed during your session and stored in a de-identified form), device screen size, device type (unique device identifiers), browser information, geographic location (country only), and the preferred language used to display our website. Hotjar stores this information on our behalf in a pseudonymized user profile. Hotjar is contractually forbidden to sell any of the data collected on our behalf.
 
 ### Disclaimers; Limitation of Liability
 

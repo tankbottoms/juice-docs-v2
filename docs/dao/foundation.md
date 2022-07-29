@@ -4,13 +4,13 @@ sidebar_position: 2
 
 # Juicebox DAO Foundation
 
-### Mission statement
+#### Mission statement
 
 *What the DAO works toward*
 
 JuiceboxDAO helps people confidently run programmable and community funded treasuries from startup to scale, openly on Ethereum.
 
-### Values
+#### Values
 
 *Who we are*
 

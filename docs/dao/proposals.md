@@ -8,7 +8,7 @@ sidebar_position: 5
 
 *The revision process can cause a proposal to take more than one funding cycle to reach the Juicebox snapshot. Honest and plain feedback in Discord proposal threads is encouraged.*
 
-**In order to create a new proposal:**
+#### In order to create a new proposal:
 
 1. Visit the [proposals database](https://www.notion.so/9d126f9148dc42ee83317d5cd74e4db4).
 2. Click the ⬇ next to "New" (pictured below) and select `📜 Proposal Template`

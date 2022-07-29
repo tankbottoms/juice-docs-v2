@@ -21,8 +21,6 @@ The protocol is nuanced, however. The goal of the protocol docs is for you to fi
 
 [API](api/contracts/README.md) - Specifications of each contract and function, and a deep dive through each line of code.
 
-[Subgraph](dev/subgraph) - Information about the Juicebox subgraph and how to use it in development.
-
 Documentation for Juicebox Protocol V1 (live on mainnet since July 2021) is available [here](protocol-v1/).
 
 Reach out to contributors of the DAO on [Discord](https://www.discord.gg/juicebox) to call attention to something that could be improved. You can also submit PR's directly to the [documentation repo](https://github.com/jbx-protocol/juice-docs-v2) on GitHub.

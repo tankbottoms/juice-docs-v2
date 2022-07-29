@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Contribute
 
-#### A Permeable DAO
+### A Permeable DAO
 
 JuiceboxDAO strives to maintain an open contribution policy. Anyone may pitch in and help with any of the Focus Areas defined in the DAO Foundation, such as protocol and frontend development, community alignment, and governance. 
 
@@ -12,19 +12,19 @@ Unlike traditional workplaces, the DAO is open to pseudonymous contributors ("an
 
 To welcome new contributors, many of whom have little to no reputation online, the DAO suggests that contributors consider the following process to successfully onboard as a paid contributor
 
-#### Getting Started
+### Getting Started
 
 New contributors are advised to introduce themselves in the [Juicebox DAO Discord server](https://discord.gg/juicebox/), and to familiarize themselves with the focus areas they would like to contribute to. New contributors should also reach out to active contributors on Discord to figure out where the DAO needs help, or to propose new objectives. Project coordination often takes place in Juicebox DAO's [Notion workspace](https://notion.so/juicebox).
 
-#### Trial Payouts
+### Trial Payouts
 
 Contributors who have completed some work and familiarized themselves with the DAO's ongoing efforts are encouraged to propose a one-time trial payout. These proposals should detail work which has already been completed and plans for upcoming contributions to the DAO. Read [How to Make a Governance Proposal](proposals) to learn more. For inspiration, read [recent governance proposals](https://vote.juicebox.money/#/jbdao.eth).
 
-#### Recurring Payouts
+### Recurring Payouts
 
 Contributors who have completed one or more trial payouts are advised to propose an ongoing role and payout for themselves if desired. This proposal should detail responsibilities, task-based objectives, and long-term goals. ~90 day sunset clauses are strongly encouraged.
 
-#### What should I do next?
+### What should I do next?
 
 1. Join [the Discord](https://www.discord.gg/juicebox).
 2. Join the weekly Discord Town Halls (Tuesday 22:00 UTC).

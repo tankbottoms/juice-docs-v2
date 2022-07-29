@@ -3,43 +3,43 @@ title: Terms of Service
 slug: /tos
 ---
 
-## Juicebox Terms of Service
+# Juicebox Terms of Service
 
-Last Updated: July 18, 2022
+*Last Updated: July 29, 2022*
 
 ### Introduction
 
-Please read these terms of service (“Terms”) carefully. These Terms are between you and **Juicebox DAO** (the “DAO,” “we,” “us,” or “our”) concerning your use of the **Juicebox’s site**, currently located at https://juicebox.money (the “Site”) which acts as a front-end to the **Juicebox protocol** (the "DAO Protocol") available on one or more blockchains via [smart contracts (“Smart Contracts”)](./contract-addresses.md). These Terms apply to you (“you,” or “User”) as a user of the Site and its front-end, including all the products, services, tools, source code repository ("Repository") and information made available on the Site.
+Please read these terms of service (“Terms”) carefully. These Terms are between you and **Juicebox DAO** (the “DAO,” “we,” “us,” or “our”) concerning your use of the **Juicebox DAO’s site**, currently located at `https://juicebox.money` (the “Site”) which acts as a front-end to the **Juicebox protocol** (the "DAO Protocol") available on one or more blockchains via [smart contracts (“Smart Contracts”)](/dev/resources/addresses). These Terms apply to you (“you,” or “User”) as a user of the Site and its front-end, including all products, services, tools, source code repositories ("Repository" or "Respositories") and information made available on the Site, including the Juicebox DAO Discord server at `https://discord.gg/juicebox`, the Juicebox Docs at `https://info.juicebox.money`, the Juicebox GitHub at `https://github.com/jbx-protocol`, and other websites maintained and/or operated by Juicebox DAO or Juicebox DAO contributors ("Sites," "the Sites," or "our Sites").
 
 ### By using the Site, you agree to these Terms
 
-Certain features on the site may be offered while still in “beta” form (“Beta Services”). By accepting these Terms or using the Beta Services, You understand and acknowledge that the Beta Services are being provided as a “Beta” version and made available on an “As Is” or “As Available” basis. The Beta Services may contain bugs, errors, and other problems.
+Certain features on the Site may be offered while still in “beta” form (“Beta Services”). By accepting these Terms or using the Beta Services, You understand and acknowledge that the Beta Services are being provided as a “Beta” version and made available on an “As Is” or “As Available” basis. The Beta Services may contain bugs, errors, and other problems.
 
-:::info
-**YOU ASSUME ALL RISKS AND ALL COSTS ASSOCIATED WITH YOUR USE OF THE DAO BETA SERVICES, INCLUDING, WITHOUT LIMITATION, ANY INTERNET ACCESS FEES, BACK-UP EXPENSES, COSTS INCURRED FOR THE USE OF YOUR DEVICE AND PERIPHERALS, AND ANY DAMAGE TO ANY EQUIPMENT, SOFTWARE, INFORMATION OR DATA.**
+:::warning
+**You assume all risks and all costs associated with your use of the DAO Beta Services, including, without limitation, any internet access fees, back-up expenses, costs incurred for the use of your device and peripherals, and any damage to any equipment, software, information or data.**
 :::
 
 In addition, we are not obligated to provide any maintenance, technical, or other support for the Beta Services.
 
-:::info
-**NONE OF THE INFORMATION, SERVICES OR MATERIALS OFFERED ON OUR SITE CONSTITUTE, AND ARE NOT INTENDED TO CONSTITUTE, LEGAL, FINANCIAL, TAX, INVESTMENT OR OTHER ADVICE, AND YOU SHOULD NOT ACT OR REFRAIN FROM ACTING BASED ON ANY INFORMATION, SERVICES OR MATERIALS PROVIDED ON THIS SITE. ALL CONTENT ON OUR SITE IS INFORMATION OF A GENERAL NATURE AND DOES NOT ADDRESS THE UNIQUE CIRCUMSTANCES OF ANY PARTICULAR USER. YOU ARE STRONGLY URGED TO CONSULT WITH YOUR OWN LEGAL, FINANCIAL, TAX, INVESTMENT AND OTHER ADVISORS AS TO ALL LEGAL, FINANCIAL, TAX AND INVESTMENT-RELATED QUESTIONS YOU HAVE.**
+:::warning
+**None of the information, services or materials offered on our Site constitute, or are intended to constitute, legal, financial, tax, investment or other advice, and you should not act or refrain from acting based on any information, services or materials provided on this Site. All content on our Site is information of a general nature and does not address the unique circumstances of any particular user. You are strongly urged to consult with your own legal, financial, tax, investment and other advisors as to all legal, financial, tax and investment-related questions you have.**
 :::
 
 You must be able to form a legally binding contract online either as an individual or on behalf of a legal entity. You represent that as a User, you have the legal authority to bind the company or other legal entity on which behalf you are acting to these Terms, you are at least 18 years old or the age of majority where you reside, whichever is older, you can form a legally binding contract online, and you have the full, right, power and authority to enter into and to comply with the obligations under these Terms on your own behalf, or on behalf of the company or other legal entity on which behalf you are acting.
 
-You are advised to revisit these Terms periodically to familiarize yourself with any changes to the Terms. the DAO, in its sole and absolute discretion, the DAO reserves the right to make changes to these Terms. Any such changes are binding on Users of the Site and will take effect immediately upon posting to the Site. As a User, you agree to be bound by any changes, variations, or modifications to our terms of service and your continued use of the Site shall constitute acceptance of any such changes, variations, or modifications.
+You are advised to revisit these Terms periodically to familiarize yourself with any changes to the Terms. the DAO, in its sole and absolute discretion, reserves the right to make changes to these Terms. Any such changes are binding on Users of the Site and will take effect immediately upon accessing the Site. As a User, you agree to be bound by any changes, variations, or modifications to our terms of service and your continued use of the Site shall constitute acceptance of any such changes, variations, or modifications.
 
-### Information of a Legal, Accounting, or Tax Matters
+### Information Regarding Legal, Accounting, or Tax Matters
 
-Any legal, financial, or tax comments within Discord is provided for informational and illustrative purposes only, and is not intended to constitute legal, financial, tax, or other advice. You should not act or refrain from acting based on any information gleaned from any documents, comments, or instructions. The DAO does not endorse or make any representation as to the capabilities of any legal or tax professional or advisors within our Discord (or the Internet) and the provision of contact information is not a recommendation that you hire any such person. Please check with your legal and tax advisors to make the best decisions for your specific circumstances.
+Any legal, financial, or tax comments within the Sites are provided for informational and illustrative purposes only, and are not intended to constitute legal, financial, tax, or other advice. You should not act or refrain from acting based on any information from any documents, comments, or instructions. The DAO does not endorse or make any representation as to the capabilities of any legal or tax professional or advisors within our Sites (or the Internet) and the provision of contact information is not a recommendation that you hire any such person. Please check with your legal and tax advisors to make the best decisions for your specific circumstances.
 
 ### Risks Involved in the Use of the Smart Contracts
 
-The DAO protocol runs entirely on publicly accessible smart contracts explained in detail throughout the DAO's online documents. The DAO's protocol is public infrastructure running well-known code, all consequences from interacting with networks running the protocol are borne by the entities who sign each transaction. The protocol works according to the specifications outlined in these docs to the extent the code is written and deployed correctly, which is a collective responsibility and not guaranteed. There are major risks that this is not the case. Please do your own research.
+The DAO protocol runs entirely on publicly accessible smart contracts explained in detail throughout the DAO's online documents and Sites. The DAO's protocol is public infrastructure running well-known code. All consequences from interacting with networks running the protocol are borne by the entities who sign each transaction. The protocol works according to the specifications outlined in these docs to the extent that the code is written and deployed correctly, which is a collective responsibility and not guaranteed. There are major risks that this is not the case. Please do your own research.
 
 ### Source Code Repositories
 
-No Warranties. The DAO's Repository is only a presentation of information regarding certain technologies. The statements contained in the Repository do not provide any advice, representation, warranty, certification, guarantee or promise relating to these technologies, any uses thereof or any of the other matters discussed in the Repository, nor does the Repository provide an offer or agreement to make such technologies available, maintain or update such technologies, or sell or buy any asset or enter into any transaction. You should not rely on the Repository as a basis for making any financial or other decision.
+No Warranties. The DAO's Repository is only a presentation of information regarding certain technologies. The statements contained in the Repository do not provide any advice, representation, warranty, certification, guarantee or promise, express or implied, relating to these technologies, any uses thereof, or any of the other matters discussed in the Repository, nor does the Repository provide an offer or agreement to make such technologies available, maintain or update such technologies, or sell or buy any asset or enter into any transaction. You should not rely on the Repository as a basis for making any financial or other decision.
 
 ### The Decentralized Application
 
@@ -61,7 +61,7 @@ THE CREATION OF THE DAO APPLICATION OF CRYPTOCURRENCY ASSETS MAY SUBJECT THE MAN
 
 Access to the Site is provided “AS IS” and “as available” basis only. We do not guarantee that the Site, or any content on it, will always be available or uninterrupted. From time to time, access may be interrupted, suspended or restricted, including because of a fault, error or unforeseen circumstances or because we are carrying out planned maintenance.
 
-We reserve the right to limit the availability of the Site to any person, geographic area or jurisdiction we so desire and/or to terminate your access to and use of the site, at any time and in our sole and absolute discretion.
+We reserve the right to limit the availability of the Site to any person, geographic area or jurisdiction we so desire and/or to terminate your access to and use of the Site, at any time and in our sole and absolute discretion.
 
 We may remove or amend the content of the Site at any time. However, some of the content may be out of date at any given time and we are under no obligation to update it. We do not guarantee that the Site, or any content on it, will be free from errors or omissions.
 

@@ -1,7 +1,6 @@
 ---
 title: Juicebox Docs
 sidebar_position: 1
-slug: /
 ---
 
 # Intro

@@ -12,8 +12,8 @@ hide_table_of_contents: true
       <div class="col col--6">
         <h1 style={{fontSize: "3rem"}}>Juicebox Docs</h1>
         <p style={{fontSize: "2rem"}}>Juicy and possibly forbidden knowledge.</p>
-        <a class="button button--primary" href="/user/">Learn the basics</a>
-        <a class="button button--link" href="https://juicebox.money">Use Juicebox →</a>
+        <a class="button button--primary" href="/user/" style={{marginBottom: "5px"}}>Learn the basics</a>
+        <a class="button button--link" href="https://juicebox.money" style={{marginBottom: "5px"}}>Use Juicebox →</a>
       </div>
     </div>
   </div>

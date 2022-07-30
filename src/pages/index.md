@@ -43,7 +43,7 @@ hide_table_of_contents: true
           </p>
         </div>
         <div class="card__footer">
-          <a class="button button--primary button--block" href="/docs">Docs →</a>
+          <a class="button button--primary button--block" href="/dev">Docs →</a>
         </div>
       </div>
     </div>

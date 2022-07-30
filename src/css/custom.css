@@ -8,9 +8,9 @@
 
 :root {
   --ifm-link-color: #18B4C7;
-  --ifm-background-color: #FEFDFB;
+  --ifm-background-color: #FFFFFF;
   --ifm-background-surface-color: #F5F4EF;
-  --ifm-color-primary: #F5A312;
+  --ifm-color-primary: #18B4C7;
   --ifm-color-primary-dark: #E3950A;
   --ifm-color-primary-darker: #D68C09;
   --ifm-color-primary-darkest: #B17407;
@@ -18,10 +18,9 @@
   --ifm-color-primary-lighter: #F7B238;
   --ifm-color-primary-lightest: #F8C05E;
   --ifm-code-font-size: 95%;
-
   --ifm-color-info-contrast-background: transparent !important;
   --ifm-h1-font-size: 2.5rem;
-
+  --ifm-h4-font-size: 1.05rem;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -67,10 +66,8 @@ article img {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
-h4,
-h5 {
-  color: #FFB32C;
-  font-size: 105%;
+h4, h5 {
+  color: var(--ifm-color-primary);
 }
 
 .menu__link {

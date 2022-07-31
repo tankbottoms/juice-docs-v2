@@ -11,7 +11,7 @@ hide_table_of_contents: true
       </div>
       <div class="col col--6">
         <h1 style={{fontSize: "3rem"}}>Juicebox Docs</h1>
-        <p style={{fontSize: "2rem"}}>Juicy and possibly forbidden knowledge.</p>
+        <p style={{fontSize: "2rem"}}>Fund your thing.</p>
         <a class="button button--primary" href="/user/" style={{marginBottom: "5px"}}>Learn the basics</a>
         <a class="button button--link" href="https://juicebox.money" style={{marginBottom: "5px"}}>Use Juicebox →</a>
       </div>
@@ -39,7 +39,7 @@ hide_table_of_contents: true
         </div>
         <div class="card__body">
           <p>
-            Learn about the Juicebox protocol with high level overviews and deep dives into code.
+            Learn about the Juicebox protocol with high level overviews and contract deep dives.
           </p>
         </div>
         <div class="card__footer">
@@ -71,7 +71,7 @@ hide_table_of_contents: true
         <div class="card__body">
           <p>
             Learn about <a href="https://juicebox.money/p/juicebox">the DAO</a> building
-            Juicebox and the ecosystem around it (and its partners).
+            Juicebox and the ecosystem around it.
           </p>
         </div>
         <div class="card__footer">

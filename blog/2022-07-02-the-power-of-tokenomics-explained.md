@@ -15,7 +15,7 @@ At [Juicebox](https://info.juicebox.money/blog/juicebox-the-token-minting-powerh
 
 ## Governance and so much more
 
-One crucial aspect of token minting is how they relate to governance systems within [DAOs](https://info.juicebox.money/blog/dalicious-tips-for-starting-your-first-dao)s. While you may or may not be creating a DAO, you should keep in mind that these very same governance systems can also be used informally to gauge your stakeholder interests in an effective and efficient way.
+One crucial aspect of token minting is how they relate to governance systems within [DAOs](https://info.juicebox.money/blog/dalicious-tips-for-starting-your-first-dao). While you may or may not be creating a DAO, you should keep in mind that these very same governance systems can also be used informally to gauge your stakeholder interests in an effective and efficient way.
 
 You can choose to give tokens at your own discretion, or set certain metrics and tokenomic tooling to automatically generate and disburse tokens based on contributions made to your project. The Juicebox difference is in the rich tooling our platform provides project creators.
 

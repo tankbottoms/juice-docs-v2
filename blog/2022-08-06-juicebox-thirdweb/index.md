@@ -1,9 +1,9 @@
 ---
-slug: juicebox-zora
-title: How to Create an NFT on Zora and forward proceeds to a Juicebox project
+slug: juicebox-thirdweb
+title: How to Create an NFT on Thirdweb and forward proceeds to a Juicebox project
 authors: [nicholas]
 tags: [guide, project creator]
-image: https://info.juicebox.money/assets/images/thumb-52558eb5f93346b479c735d1976fb2fd.png
+# image: https://info.juicebox.money/assets/images/thumb-52558eb5f93346b479c735d1976fb2fd.png
 ---
 
 # How to Create an NFT on Thirdweb and forward proceeds to a Juicebox project

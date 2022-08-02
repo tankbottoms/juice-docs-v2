@@ -19,22 +19,20 @@ In this guide, I’ll show you how to deploy an NFT drop to Ethereum with Zora�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ss35n_eZwj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 1. Navigate to Project tools
-Go to the project you would like to pay on [juicebox.money](http://juicebox.money).
+Go to the project you would like to pay on [juicebox.money](http://juicebox.money). Click the Tools button at the top-right of the page.
     
 ![](Untitled.png)
 <p class="subtitle">Project tools on <a href="https://juicebox.money">juicebox.money</a></p>
     
-
 ### 2. Create payable address
 Click `Deploy project payer contract` in the project tools.
 
 ![](Untitled1.png)
 
 ### 3. Deploy your Project Payer
-Click Deploy project payer contract. You can leave the advanced features set to their defaults. Verify that the transaction looks good in your wallet, then sign it.
+Click `Deploy project payer contract`. Leave the Advanced features set to their defaults. Verify that the transaction looks good in your wallet, then sign it.
     
-Bonus: If you include text or an `ipfs://Qm...` link to an image in the memo field, every contribution to the project made via this project payer will have that text and/or image in the Juicebox project's activity feed.
-    
+Bonus: If you include text or an `ipfs://Qm...` link to an image in the memo field, every contribution to the project made via this Project Payer will have that text and/or image in the Juicebox project's activity feed.
 
 ![](Untitled2.png)
 
@@ -42,10 +40,12 @@ Bonus: If you include text or an `ipfs://Qm...` link to an image in the memo fie
 When the transaction succeeds, a pop-up will display the new Project Payer’s address.
 
 ![](Untitled3.png)
+<p class="subtitle">Project Payer creation successful pop-up.</p>
 
 A new event called “Created ETH-ERC20 payment address” will also appear in the project’s activity feed with the same information. Copy the Project Payer address to your clipboard.
 
 ![](Untitled4.png)
+<p class="subtitle">The new Project Payer in the Project's Activity feed.</p>
 
 ### 5. Create your NFT
 Go to [create.zora.co/create](https://create.zora.co/create) and select an NFT drop type. I’ll be selecting Editions. Fill out your NFT’s data and upload the NFT media. Paste the Project Payer address we copied earlier into the Funds Recipient input. 

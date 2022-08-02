@@ -3,15 +3,16 @@ slug: juicebox-zora
 title: How to Create an NFT on Zora and forward proceeds to a Juicebox project
 authors: [nicholas]
 tags: [guide, project creator]
+image: /img/thumb.png
 ---
 
 # How to Create an NFT on Zora and forward proceeds to a Juicebox project
 
 In this guide, I’ll show you how to deploy an NFT drop to Ethereum with Zora’s creator tools, and forward the mint sale proceeds to a Juicebox Project.
 
-*As of 2022-08-01, Zora charges a 5% fee on primary sales. This may change in future.* 
+*As of 2022-08-01, Zora charges a 5% fee on primary sales. This may change in future.*
 
-Before you start, you should have 
+**Before you start,** you should have:
 - At least one piece of artwork for your NFT (image, audio, video).
 - A Juicebox project you’d like to fund. This can be your project or someone else’s.
 

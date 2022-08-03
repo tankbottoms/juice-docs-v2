@@ -3,7 +3,7 @@ slug: juicebox-thirdweb
 title: How to Create an NFT on Thirdweb and forward proceeds to a Juicebox project
 authors: [nicholas]
 tags: [guide, project creator]
-# image: https://info.juicebox.money/assets/images/thumb-52558eb5f93346b479c735d1976fb2fd.png
+image: https://info.juicebox.money/assets/images/thumb-52558eb5f93346b479c735d1976fb2fd.png 
 ---
 
 # How to Create an NFT on Thirdweb and forward proceeds to a Juicebox project
@@ -94,4 +94,4 @@ NFT mint proceeds are forwarded directly to the Juicebox project and show up on 
 
 That’s it! Try minting an NFT to see it in action! For support, visit [discord.gg/juicebox](http://discord.gg/juicebox).
 
-<!-- ![](thumb.png) -->
+![](thumb.png)

@@ -3,7 +3,7 @@ slug: juicebox-thirdweb
 title: How to Create an NFT on Thirdweb and forward proceeds to a Juicebox project
 authors: [nicholas]
 tags: [guide, project creator]
-image: https://info.juicebox.money/assets/images/thumb-52558eb5f93346b479c735d1976fb2fd.png 
+# image: https://info.juicebox.money/assets/images/thumb-52558eb5f93346b479c735d1976fb2fd.png 
 ---
 
 # How to Create an NFT on Thirdweb and forward proceeds to a Juicebox project
@@ -16,7 +16,7 @@ In this guide, I’ll show you how to deploy an NFT to Ethereum with Thirdweb's 
 - At least one piece of artwork for your NFT (image, audio, video).
 - A Juicebox project you’d like to fund. This can be your project or someone else’s.
 
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Ss35n_eZwj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9LHVt2xgTNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 1. Navigate to Project tools
 Go to the project you would like to pay on [juicebox.money](http://juicebox.money). Click the Tools button at the top-right of the page.

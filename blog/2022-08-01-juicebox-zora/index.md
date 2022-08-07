@@ -3,7 +3,7 @@ slug: juicebox-zora
 title: How to Create an NFT on Zora and forward proceeds to a Juicebox project
 authors: [nicholas]
 tags: [guide, project creator]
-image: https://info.juicebox.money/assets/images/thumb-52558eb5f93346b479c735d1976fb2fd.png
+image: "/img/tag/zora.png"
 ---
 
 # How to Create an NFT on Zora and forward proceeds to a Juicebox project
@@ -62,5 +62,3 @@ As your NFTs sell, ETH accumulates in the NFT contract. To move the funds to the
 ![](Untitled8.png)
 
 That’s it! Try minting an NFT to see it in action! For support, visit [discord.gg/juicebox](http://discord.gg/juicebox).
-
-![](thumb.png)

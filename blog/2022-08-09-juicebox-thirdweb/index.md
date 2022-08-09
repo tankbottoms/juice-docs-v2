@@ -93,4 +93,6 @@ You can mint from the preview at the bottom of the page if you would like to tes
 
 NFT mint proceeds are forwarded directly to the Juicebox project and show up on the Juicebox Project's Activity feed. 
 
-That’s it! Try minting an NFT to see it in action! For support, visit [discord.gg/juicebox](http://discord.gg/juicebox).
+That’s it! Try minting an NFT to see it in action! 
+
+For support, visit [discord.gg/juicebox](http://discord.gg/juicebox).

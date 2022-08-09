@@ -9,7 +9,7 @@ tags: [dao, town hall, news]
 
 ## Warning of Influx of new members.
 
-**filipv**: On June 7^th^, the Discord server of JuiceboxDAO was faced with a big influx of new members from Indonesia. According to @Zeugh, they came from several big Telegram chat groups that are mainly focused on airdrops. There might be a misintrepretation that if they create a project on rinkeby.juicebox.money and give feedback in the Discord server, they will be entitiled to some kind of Juicebox airdrop. **We don't have any airdrop currently.**
+**filipv**: On June 7<sup>th</sup>, the Discord server of JuiceboxDAO was faced with a big influx of new members from Indonesia. According to @Zeugh, they came from several big Telegram chat groups that are mainly focused on airdrops. There might be a misintrepretation that if they create a project on rinkeby.juicebox.money and give feedback in the Discord server, they will be entitiled to some kind of Juicebox airdrop. **We don't have any airdrop currently.**
 
 **Zeugh**： I think it won't do any substantial harm to JuiceboxDAO, and think it a great opportunity to showcase the functionalities of our protocol to these people, and to onboard some new members who are really interested in our products.
 
@@ -157,6 +157,6 @@ Oh man, this episode definitely needs a PG rating for sure. I won't compile it s
 
 And the answer is........
 
-$$ Sage $$
+ **Sage** 
 
 
